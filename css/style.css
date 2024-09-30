@@ -4,6 +4,7 @@ body{
     background-position: top center;
     color:white;
     padding-left: 20px;
+    height: 100vh;
 }
 .second-ol{
     list-style:upper-latin;
